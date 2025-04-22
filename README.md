@@ -5,11 +5,11 @@ This repository contains our final project for the CE432 course at IIT Kanpur ti
 ## 📁 Contents
 
 - `CE432_Group14_Report.pdf` — Final report
-- `CE432_Group14_PPT.pptx` — Presentation slides
 - `Code/` — Python files for:
   - DEM reading
   - 3D terrain with PyVista
-  - Interactive threshold + flyovers
+- `Visualisation/` - Python files for:
+    - Interactive threshold + flyovers
 
 ## 🚀 How to Run
 
