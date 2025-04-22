@@ -1,0 +1,5 @@
+The code section contains three segments of code:
+
+1. The app.py and apple.py implements a local host by the help of streamlit library of python allowing 3D DEM Viewing on a locally hosted platform
+2. The terrain_plot, terrain_input_threshold, sea_level_risk and sea_level_input allows us to implement a user-friendly interface of the 3D GIS Model
+3. camera_path.py and terrain_animation.py helps us create animation and 3D visualisation of the models
