@@ -2,7 +2,7 @@
 
 This repository contains our final project for the CE432 course at IIT Kanpur titled **"3D GIS: An Application"**. The project focuses on using QGIS, Python, and PyVista to visualize flood-prone regions using DEM data in 3D.
 
-## 📁 Contents
+##  Contents
 
 - `CE432_Group14_Report.pdf` — Final report
 - `Code/` — Python files for:
@@ -11,7 +11,7 @@ This repository contains our final project for the CE432 course at IIT Kanpur ti
 - `Visualisation/` - Python files for:
     - Interactive threshold + flyovers
 
-## 🚀 How to Run
+##  How to Run
 
 Install required libraries:
 
@@ -20,13 +20,13 @@ pip install numpy rasterio pyvista
 
 Then run the Python scripts.
 
-## 👥 Team Members
+##  Team Members
 
 - Anant Gauniyal (220132)  
 - Aayush Sidana (220032)  
 - Amipriya Anand (220122)
 
-## 🏫 Course
+##  Course
 
 **CE432: Geographic Information System**  
 Instructor: Dr. Salil Goel, IIT Kanpur
